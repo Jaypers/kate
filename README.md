@@ -6,9 +6,9 @@
 
 
 # Registry edit
-| :warning: WARNING :warning: |
+|   :warning: WARNING :warning:   |
 |:----------------------------|
-|   !!! RUN AT OWN RISK !!!   |
+|      RUN AT OWN RISK       |
 
 Changes icon of text files to Notepad's icon.
 Depending on your version of Kate installed (i.e. nightly build or Microsoft Store) a different registry patch is required. 
