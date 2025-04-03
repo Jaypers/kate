@@ -1,7 +1,9 @@
 # Kate icon
-![image](https://github.com/user-attachments/assets/1e89ec6a-51ea-4382-9d02-2d1cf655b248)
+![image](https://github.com/user-attachments/assets/1693db8c-dd66-4f50-bee9-a3922093a75d)
+
 # Text file icon
-![image](https://github.com/user-attachments/assets/0b2e7571-09bb-4fe3-ad8a-086ce33aaca4)
+![image](https://github.com/user-attachments/assets/86ba7a88-36bd-4608-b155-c171139f4d19)
+
 
 # Registry edit
 Changes icon of text files to Notepad's icon.
