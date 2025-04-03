@@ -5,7 +5,7 @@
 # Registry Edit 
 :warning: **WARNING: Run at own risk!** :warning:
 
-Changes icon of text files to Notepad's icon.
+This will change text file icons back to the Notepad icon.
 Depending on your version of Kate installed (i.e. nightly build or Microsoft Store) a different registry patch is required. 
 
 # katerc is not necessary for icon changes.
