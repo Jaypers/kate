@@ -1,6 +1,6 @@
 | Kate Icon | Text File |
 |:----------|----------|
-| ![image](https://github.com/user-attachments/assets/b2e156b6-cac6-4107-a800-32183218da7d) | ![image](https://github.com/user-attachments/assets/86ba7a88-36bd-4608-b155-c171139f4d19) |
+| ![image](https://github.com/user-attachments/assets/ac64dd2c-f53c-400a-8cf7-e47bb7a745c6) | ![image](https://github.com/user-attachments/assets/86ba7a88-36bd-4608-b155-c171139f4d19) |
 
 # Registry Edit 
 :warning: **WARNING: RUN AT OWN RISK** :warning:
