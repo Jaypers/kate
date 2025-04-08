@@ -1,6 +1,6 @@
 | Kate Icon | Text File |
 |:----------|----------|
-| https://raw.githubusercontent.com/Jaypers/kate/refs/heads/main/kate.ico | ![image](https://github.com/user-attachments/assets/86ba7a88-36bd-4608-b155-c171139f4d19) |
+| ![image](https://raw.githubusercontent.com/Jaypers/kate/refs/heads/main/kate.ico) | ![image](https://github.com/user-attachments/assets/86ba7a88-36bd-4608-b155-c171139f4d19) |
 
 **128px, 64px, 48px and 32px icons included in `kate.ico`*
 
