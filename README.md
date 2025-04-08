@@ -1,6 +1,6 @@
 | Kate Icon | Text File |
 |:----------|----------|
-| ![png](https://github.com/user-attachments/assets/e34570bc-b5d0-4714-9e9b-3746d6871ff8) | ![image](https://github.com/user-attachments/assets/86ba7a88-36bd-4608-b155-c171139f4d19) |
+| ![kate](https://github.com/user-attachments/assets/b0f47800-5a67-4255-8aa8-d3ba7e3be688) | ![image](https://github.com/user-attachments/assets/86ba7a88-36bd-4608-b155-c171139f4d19) |
 
 **128px, 64px, 48px and 32px icons included in `kate.ico`*
 
